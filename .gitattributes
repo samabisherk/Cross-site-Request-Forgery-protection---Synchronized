@@ -1,3 +1,3 @@
 * linguist-vendored
-*.php,.js linguist-vendored=false
+*.php linguist-vendored=false
 
